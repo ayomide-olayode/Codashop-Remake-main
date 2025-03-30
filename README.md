@@ -1,2 +1,0 @@
-# Codashop-Remake
-CodaShop Remake 
